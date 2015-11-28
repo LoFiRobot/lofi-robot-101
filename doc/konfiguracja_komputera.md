@@ -2,7 +2,7 @@
 
 Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstalowanie na komputerze następujących programów i wtyczek:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/EWZNls5qcY0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EWZNls5qcY0" frameborder="0" allowfullscreen></iframe>
 
 ## ARDUINO IDE
 
