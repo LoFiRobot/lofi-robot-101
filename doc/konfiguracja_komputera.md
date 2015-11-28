@@ -1,8 +1,9 @@
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EWZNls5qcY0" frameborder="0" allowfullscreen></iframe>
+
 # Konfiguracja komputera
 
 Aby móc korzystać ze wszystkich funkcji zestawu EDUBOX konieczne jest zainstalowanie na komputerze następujących programów i wtyczek:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EWZNls5qcY0" frameborder="0" allowfullscreen></iframe>
 
 ## ARDUINO IDE
 
