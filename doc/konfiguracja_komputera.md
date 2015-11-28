@@ -30,22 +30,30 @@ W przeglądarce Firefox przy pierwszym uruchomieniu ScratchX po instalacji wtycz
 
 ![scratchdevice_installation](http://www.lofirobot.com/wp-content/uploads/scratchdevice_installation.png)
 
-FLASH PLAYER
+## FLASH PLAYER
 
-LINK DO INSTALACJI PROGRAMU
+[LINK DO INSTALACJI PROGRAMU](https://get.adobe.com/pl/flashplayer/)
 
 Jest to bardzo popularna wtyczka do przeglądarki internetowej, którą najprawdopodobniej masz już zainstalowaną na swoim komputerze, jednak jeśli nie możesz uruchomić edytora ScratchX to może to wynikać z braku Flash Playera.
 
-JAVA
+## JAVA
 
-LINK DO INSTALACJI PROGRAMU
+[LINK DO INSTALACJI PROGRAMU](https://www.java.com/pl/download/)
 
 Podobnie jak Flash Player, Java jest zainstalowana na większości komputerów. Jest ona niezbędna do poprawnego funkcjonowania programu ARDUINO IDE, jeśli masz problemy z jego działaniem sprawdź czy Twój komputer posiada aktualną wersję Javy.
 
-CODEBENDER.CC
+## CODEBENDER.CC
 
-LINK DO SERWISU
+[LINK DO SERWISU](http://www.codebender.cc/)
 
 Codebender to bardzo przydatny serwis internetowy, który umożliwia programowanie Arduino z poziomu przeglądarki internetowej. Korzystanie z niego nie jest niezbędne do programowania Arduino, pozwala jednak bardzo uprościć pracę dlatego zalecamy założenie konta w tym serwisie.
 
 Przykłady skryptów Arduino na naszej stronie podawane są w formie okien z serwisu Codebender takich jak to:
+
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:166817" frameborder="0"></iframe>
+
+Dzięki temu aby wgrać kod na Arduino wystarczy kliknąć zielony przycisk RUN ON ARDUINO
+Jeśli chcesz pobrać ten skrypt kliknij przycisk DOWNLOAD i ściągnięty plik (po odzipowaniu) uruchom w programie Arduino IDE.
+
+Aby móc korzystać z Codebendera konieczna jest jego konfiguracja i zainstalowanie odpowiedniej wtyczki.
+Instaluje się ona automatycznie podczas zakładania konta w serwisie.
