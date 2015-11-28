@@ -1,5 +1,5 @@
 # Summary
 
 * [Konfiguracja komputera](doc/konfiguracja_komputera.md)
-* Robot pojazd
+* [Robot pojazd](doc/robot_pojazd.md)
 
