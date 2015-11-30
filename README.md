@@ -7,7 +7,7 @@ https://wooyek.gitbooks.io/lofi-robot-101/
 <div id='discourse-comments'></div>
 
 <script type="text/javascript">
-  DiscourseEmbed = { discourseUrl: 'http://discourse.kodujzklasa.pl/',
+  DiscourseEmbed = { discourseUrl: 'https://discourse.kodujzklasa.pl/',
                      topicId: 268 };
 
   (function() {
@@ -16,3 +16,12 @@ https://wooyek.gitbooks.io/lofi-robot-101/
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+
+ <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = "lofirobot";
+        var disqus_title = "Robot ze smartfonem";
+        var disqus_url = "http://www.lofirobot.com/edubox/robot-ze-smartfonem/";
+        var disqus_identifier = "lofirobot-1109";
+    </script>
+</div>
